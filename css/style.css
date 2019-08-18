@@ -1,0 +1,60 @@
+body{
+    line-height: 1;
+}
+nav{
+    width: 100%;
+    position: absolute;
+}
+nav i{
+    padding: 10px;
+}
+nav label{
+    font-size: 18px;
+    font-family: 'Anton', sans-serif;
+}
+
+.row1{
+    position: absolute;
+    padding-top:5px;
+    top: 0%;
+    left: 15%;
+}
+.row2{
+    position: absolute;
+    right: 0;
+    top: 0;
+}
+#none{
+    width: 40%;
+}
+aside{
+    position: absolute;
+    top: 50px;
+    left: 0;
+    width: 16%;
+    background-color: #eeeeee;
+    font-family: Arial;
+    font-size: 14px;
+    color: #7c7c7c
+}
+aside i{
+    padding-top: 10px;
+}
+aside p{
+    padding-top: 10px;
+}
+.description{
+    color: #878787;
+}
+#content{
+    position: absolute;
+    top: 59px;
+    left: 23%;
+    width: 77%;
+    font-size: 12px;
+    font-family: Arial;
+}
+
+.rowHover:hover{
+    background-color: #cccccc;
+}
